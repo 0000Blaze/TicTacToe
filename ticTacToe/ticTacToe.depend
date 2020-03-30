@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1585472696 source:e:\program\c++\tictactoe\tictactoe\main.cpp
+	<iostream>
+	"header.h"
+
+1585472801 e:\program\c++\tictactoe\tictactoe\header.h
+
